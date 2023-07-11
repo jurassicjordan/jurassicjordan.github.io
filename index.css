@@ -69,13 +69,17 @@ body {
 	text-align: center;
 }
 
-#WIP {
+#wip {
 	max-width: 500px;
-	display: block;
-   margin-left: auto;
-   margin-right: auto;
+	display: inline-block;
 }
 
+.image-container-wip {
+  text-align: center;
+}
+.image-container-wip img {
+  display: inline-block;
+}
 
 
 /*after this its pretty much just template*/
