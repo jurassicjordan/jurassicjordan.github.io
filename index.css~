@@ -146,7 +146,7 @@ figure:hover figcaption {
 .video-container {
   margin-left: auto;
   margin-right: auto;
-  width: 800px;
+  width: 560px;
   max-width: 100%;
 }
 

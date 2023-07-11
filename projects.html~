@@ -4,7 +4,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T15:45:01-0700" >
+<meta name="date" content="2023-07-11T15:42:35-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -42,7 +42,7 @@
 	
 	<h2 id=introshort>Below is a showcase of my past projects.</h2>
 	<div class="grid-container">
-    <a href="projectpages/Zoetrope.html">
+    <a href="projectpages/template.html">
       <figure>
         <img src="images/projectpage/zoetrope/Screenshot_20230711_122550.png" alt="A frame from zoetrope video">
         <figcaption class="hover-caption">Animation - Zoetrope Logo <br><br> click to see project</figcaption>
