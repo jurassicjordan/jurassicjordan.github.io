@@ -6,43 +6,40 @@
   font-family: "FutureEarth";
   src: url("fonts/Future-Earth.ttf") format("truetype");
 }
-
+/*header*/
 header {
 	background-color: #4C97BA;
 	padding: 50px;
    /*display: flex;*/
    align-items: center;
 }
-
+/*zopetrope logo*/
 .logo {
   max-width: 400px;
 }
-
+/*navigation menu elements*/
 nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-
 nav ul li {
   display: inline;
   margin-right: 10px;
 }
-
 nav ul li a {
   color: #ffffff;
   text-decoration: none;
 }
-
 nav ul li a:hover {
   color: #ffffff;
 }
-
+/*header container or something i dont get containers*/
 .container {
   max-width: 1500px;
   margin: 0 auto;
 }
-
+/*the body of the site*/
 body {
 	background-color: #207EA9;
 	color: #ffffff;
@@ -54,31 +51,83 @@ body {
 /*this is the actual meat of the website*/
 
 
-
+/*this applies to all header 1 text with the welcome id*/
 #Welcome {
 	text-align: center;
 	font-family: "FutureEarth", Arial, sans-serif;
 	font-size: 25px
 }
-
+/*this applies to the subheader text*/
 #introshort {
 	text-align: center;
 }
-
+/*paragraphical love*/
 #introlong {
 	text-align: center;
 }
-
+/*these 3 elements pertain to just the damn wip image thats giving me alot of grief. i hope the image grid on the projects page wont be this painful*/
 #wip {
 	max-width: 800px;
 }
-
 .image-container-wip {
   text-align: center;
 }
 .image-container-wip img {
   display: inline-block;
 }
+/*this is all the projects on the project page*/
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(475px, 1fr));
+  grid-gap: 10px;
+}
+
+figure {
+  position: relative;
+  overflow: hidden;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  transition: opacity 0.3s ease;
+}
+
+figcaption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300%;
+  height: 100%;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+figure:hover img {
+  opacity: 0;
+}
+
+figure:hover figcaption {
+  opacity: 1;
+}
+
+/* Responsive Grid */
+@media (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  }
+}
+
+
 
 
 /*after this its pretty much just template*/
