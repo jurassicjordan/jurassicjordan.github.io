@@ -70,14 +70,13 @@ body {
 }
 
 #wip {
-	max-width: 500px;
-	display: inline-block;
+	max-width: 800px;
 }
 
-.image-container {
+.image-container-wip {
   text-align: center;
 }
-.image-container img {
+.image-container-wip img {
   display: inline-block;
 }
 

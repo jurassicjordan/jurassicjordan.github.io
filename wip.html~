@@ -4,7 +4,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-10T19:27:23-0700" >
+<meta name="date" content="2023-07-10T19:28:57-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -34,9 +34,10 @@
 <body>
 <!--this is the actual meat of the website-->
 <h1 id="Welcome">This page is WIP</h1>
-<div class="image-container">
+<div class="image-container-wip">
 <img src="images/sitewide/wipsite.png" alt="A 3D render of pile of tools and components showing how this page is wip" id="wip">
 </div>
+<br><br><br><br><br><br><br><br><br><br>
 <!--after this its pretty much just template-->
 
 </body>
