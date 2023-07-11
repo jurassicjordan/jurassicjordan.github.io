@@ -69,6 +69,13 @@ body {
 	text-align: center;
 }
 
+#WIP {
+	max-width: 1200px;
+	display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
 
 
 /*after this its pretty much just template*/
