@@ -4,7 +4,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T16:10:13-0700" >
+<meta name="date" content="2023-07-11T20:24:02-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -44,13 +44,18 @@
   <p class="margin-400">
          paragraphical description
     </p>
+    <p id="credits">Credit - name <br> 20XX <br> Credit - name</p>
   <div class="video-container">
     <iframe width="800" height="450" src="https://www.youtube.com/embed/EMBED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <br><br>
   <div class="image-container">
-    <img src="../images/projectpage/imagetemp" alt="Image 1">
-    <img src="../images/projectpage/imagetemp" alt="Image 1">
+    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
+    <p>quick description</p>
+    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
+    <p>quick description</p>
+    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
+    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
   </div>
 <br><br><br><br><br><br><br><br><br><br>
 <!--after this its pretty much just template-->

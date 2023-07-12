@@ -6,9 +6,9 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T14:07:45-0700" >
+<meta name="date" content="2023-07-11T19:18:45-0700" >
 <meta name="copyright" content="2023">
-<meta name="keywords" content="">
+<meta name="keywords" content="Zoetrope, Graphics, 3D, Animator">
 <meta name="description" content="">
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -53,7 +53,12 @@
   Whether it's intricate model creations, captivating animations, or artistic visualizations, 
   this portfolio aims to demonstrate the breadth and depth of my capabilities in the field of 3D artistry and what I can do for you.</p>
   
-  <br><br><br><br><br><br><br><br><br><br>
+  <br><br>
+  
+  	<div class="image-container-wip">
+		<img src="images/3D zoetropelogo.png" alt="Official 3D zoetrope logo" id="wip">
+	</div>
+  <br><br><br><br><br><br><br><br>
 <!--after this its pretty much just template-->
 
 </body>

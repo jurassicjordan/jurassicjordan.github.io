@@ -4,7 +4,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T15:42:35-0700" >
+<meta name="date" content="2023-07-11T19:22:27-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -42,13 +42,13 @@
 	
 	<h2 id=introshort>Below is a showcase of my past projects.</h2>
 	<div class="grid-container">
-    <a href="projectpages/template.html">
+    <a href="projectpages/Zoetrope.html">
       <figure>
         <img src="images/projectpage/zoetrope/Screenshot_20230711_122550.png" alt="A frame from zoetrope video">
         <figcaption class="hover-caption">Animation - Zoetrope Logo <br><br> click to see project</figcaption>
       </figure>
     </a>
-    <a href="projectpages/template.html">
+    <a href="projectpages/waterpipe.html">
       <figure>
         <img src="images/projectpage/waterpipe/Screenshot_20230711_123105.png" alt="Frame of a water pipe pouring water">
         <figcaption class="hover-caption">Fluid Simulation - Water Pipe <br><br> click to see project</figcaption>

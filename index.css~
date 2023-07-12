@@ -55,7 +55,7 @@ body {
 #Welcome {
 	text-align: center;
 	font-family: "FutureEarth", Arial, sans-serif;
-	font-size: 25px
+	font-size: 25px;
 }
 /*this applies to the subheader text*/
 #introshort {
@@ -68,6 +68,12 @@ body {
 /*these 3 elements pertain to just the damn wip image thats giving me alot of grief. i hope the image grid on the projects page wont be this painful*/
 #wip {
 	max-width: 800px;
+}
+
+#credits {
+	margin-left: 150px;
+	font-size: 23px;
+	color: #AEE1F9;
 }
 .image-container-wip {
   text-align: center;
@@ -146,7 +152,7 @@ figure:hover figcaption {
 .video-container {
   margin-left: auto;
   margin-right: auto;
-  width: 560px;
+  width: 800px;
   max-width: 100%;
 }
 

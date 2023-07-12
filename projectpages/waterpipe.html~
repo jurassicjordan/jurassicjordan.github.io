@@ -4,7 +4,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T20:24:18-0700" >
+<meta name="date" content="2023-07-11T19:36:56-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -39,23 +39,26 @@
 <body>
 <!--this is the actual meat of the website-->
 
-  <h1 id="Welcome">Project Name</h1>
-  <h2 id="introshort">Subtitle</h2>
+  <h1 id="Welcome">The Water Pipe</h1>
+  <h2 id="introshort">Physics Simulation</h2>
   <p class="margin-400">
-         paragraphical description
+         A very simple water simulation test. 
+         this is attempt 2 of an unbaked fluid simulation at 100 ray trace samples with denoising. 
+         this render took 1.8 hours without baking. first attempt took 2.5 hours, strange since there was only a slight difference. 
+         All materials are procedural, right down to the rust. This simulation was made in blender 3.1, sadly one update before they added water caustics. 
     </p>
-    <p id="credits">Credit - name<br> Credit - name  <br> 20XX </p>
+    <p id="credits">Animation - Jordan Cruz</p>
   <div class="video-container">
-    <iframe width="800" height="450" src="https://www.youtube.com/embed/EMBED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/tytjucWeNjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <br><br>
   <div class="image-container">
-    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
-    <p>quick description</p>
-    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
-    <p>quick description</p>
-    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
-    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
+    <img src="../images/projectpage/waterpipe/Screenshot_20220509_195730.png" alt="A mid render Screenshot just before denoising">
+    <p>A mid render Screenshot just before denoising</p>
+    <img src="../images/projectpage/waterpipe/Screenshot_20220510_230055.png" alt="A wireframe view of the simulation, showing the how the volume object fills the space">
+    <p>A wireframe view of the simulation, showing the how the volume object fills the space</p>
+    <img src="../images/projectpage/waterpipe/tiles.png" alt="The procedural pool tile material that ties the whole deal together nicely.">
+    <p>The procedural pool tile material that ties the whole deal together nicely.</p>
   </div>
 <br><br><br><br><br><br><br><br><br><br>
 <!--after this its pretty much just template-->
