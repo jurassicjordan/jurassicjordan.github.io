@@ -1,14 +1,12 @@
 <!DOCTYPE html>
-<!--hey there inspector websniffer, looking for something? check out the page source: https://github.com/jurassicjordan/jurassicjordan.github.io/-->
-
 <html>
 <head>
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T23:49:00-0700" >
-<meta name="copyright" content="2023">
-<meta name="keywords" content="Zoetrope, Graphics, 3D, Animator">
+<meta name="date" content="2023-07-11T23:47:06-0700" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -30,8 +28,8 @@
           <li><a href="faq.html">FAQ</a></li>-->
           <li><a href="index.html">Home</a></li>
           <li><a href="projects.html">Projects</a></li>
-          <li><a href="wip.html">Commission</a></li>
-          <li><a href="wip.html">Contact</a></li>
+          <li><a href="commission.html">Commission</a></li>
+          <li><a href="contact.html">Contact</a></li>
           <li><a href="wip.html">FAQ</a></li>
         </ul>
       </nav>
@@ -40,25 +38,19 @@
 
 <body>
 <!--this is the actual meat of the website-->
-
-
-
-  <h1 id="Welcome">Welcome to Zoetrope Graphics</h1>
-  <h2 id="introshort">Jordan is the name and 3D modeling is my game</h2>
-  <p id="introlong"><!--This website is a portfolio of my past 3D projects. 
-  These projects are examples of what I can do for you as a 3D artist, modelmaker and animator.--> 
-  This website serves as a comprehensive portfolio showcasing a range of my past 3D projects. 
-  It offers a diverse collection of examples that highlight my proficiency as a skilled 3D artist, model maker, and animator. 
-  By exploring the showcased projects, visitors can gain insight into the quality, creativity, and technical expertise that I bring to my work. 
-  Whether it's intricate model creations, captivating animations, or artistic visualizations, 
-  this portfolio aims to demonstrate the breadth and depth of my capabilities in the field of 3D artistry and what I can do for you.</p>
-  
-  <br><br>
-  
-  	<div class="image-container-wip">
-		<img src="images/3D zoetropelogo.png" alt="Official 3D zoetrope logo" id="wip">
-	</div>
-  <br><br><br><br>
+<h1 id="Welcome">Payment and contact Details<br></h1>
+<p>
+        half up front and half when completed.<br>
+        Discord - jurassicjordan<br>
+        Matrix - @jurassicjordan:matrix.org<br>
+        Mastodon - @CountJurassicJordan@nerdculture.de<br>
+        FA - https://www.furaffinity.net/user/basiliskalamia/<br>
+        paypal - +$5 handling fee - https://paypal.me/ZoetropeGraphics?country.x=US&locale.x=en_US<br>
+        venmo - +$0 handling fee - @zoetropegraphics<br></p>
+<div class="image-container-wip">
+		<img src="images/sitewide/wipsite.png" alt="A 3D render of pile of tools and components showing how this page is wip" id="wip">
+</div>
+<br><br><br><br><br><br><br><br><br><br>
 <!--after this its pretty much just template-->
 
 </body>

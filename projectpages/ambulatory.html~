@@ -4,7 +4,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T23:16:38-0700" >
+<meta name="date" content="2023-07-11T23:50:37-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -21,15 +21,10 @@
       <img src="../images/sitewide/ZGlogo-long-white.png" alt="Logo" class="logo">
       <nav>
         <ul class="menu">
-          <!--<li><a href="../index.html">Home</a></li>
+          <li><a href="../index.html">Home</a></li>
           <li><a href="../projects.html">Projects</a></li>
           <li><a href="../commissions.html">Commission</a></li>
           <li><a href="../contact.html">Contact</a></li>
-          <li><a href="../faq.html">FAQ</a></li>-->
-          <li><a href="../index.html">Home</a></li>
-          <li><a href="../projects.html">Projects</a></li>
-          <li><a href="../wip.html">Commission</a></li>
-          <li><a href="../wip.html">Contact</a></li>
           <li><a href="../wip.html">FAQ</a></li>
         </ul>
       </nav>
@@ -54,7 +49,7 @@
   <br><br>
   <div class="image-container">
     <p>Below is a comparison of the parodied logo and the actual good feet store logo from 2014* (up-scaled using ESRGAN)</p>
-    <p style=id="credits" > *The Good Feet Store is a registered Trademark. It is not related in any way to Zoetrope Graphics, or Jordan Cruz</p>
+    <p id="credits" > *The Good Feet Store is a registered Trademark. It is not related in any way to Zoetrope Graphics, or Jordan Cruz</p>
     <img src="../images/projectpage/3D-logo-ambu/2021-11-08-16_14_1636416882.png" alt="Image 1" style="max-width: 550px;">
     <img src="../images/projectpage/3D-logo-ambu/Screenshot from 2021-11-08 16-09-04.png" alt="Image 1" style="max-width: 550px;">
   </div>

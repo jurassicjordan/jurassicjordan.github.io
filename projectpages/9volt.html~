@@ -4,7 +4,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T23:22:35-0700" >
+<meta name="date" content="2023-07-11T23:50:30-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -21,15 +21,10 @@
       <img src="../images/sitewide/ZGlogo-long-white.png" alt="Logo" class="logo">
       <nav>
         <ul class="menu">
-          <!--<li><a href="../index.html">Home</a></li>
+          <li><a href="../index.html">Home</a></li>
           <li><a href="../projects.html">Projects</a></li>
           <li><a href="../commissions.html">Commission</a></li>
           <li><a href="../contact.html">Contact</a></li>
-          <li><a href="../faq.html">FAQ</a></li>-->
-          <li><a href="../index.html">Home</a></li>
-          <li><a href="../projects.html">Projects</a></li>
-          <li><a href="../wip.html">Commission</a></li>
-          <li><a href="../wip.html">Contact</a></li>
           <li><a href="../wip.html">FAQ</a></li>
         </ul>
       </nav>
@@ -56,7 +51,7 @@
   <br><br>
   <div class="image-container">
     <img src="../images/projectpage/3D-logo-9volt/gif 9volt.gif" alt="Image 1">
-    <p>In heinsight this could have been rigged alot simpler</p>
+    <p>In heinsight this could have been rigged alot simpler, or even done with geometry nodes</p>
   </div>
 <br><br><br><br><br><br><br><br><br><br>
 <!--after this its pretty much just template-->

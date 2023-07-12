@@ -4,7 +4,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T22:59:46-0700" >
+<meta name="date" content="2023-07-11T23:51:27-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -21,15 +21,10 @@
       <img src="../images/sitewide/ZGlogo-long-white.png" alt="Logo" class="logo">
       <nav>
         <ul class="menu">
-          <!--<li><a href="../index.html">Home</a></li>
+          <li><a href="../index.html">Home</a></li>
           <li><a href="../projects.html">Projects</a></li>
           <li><a href="../commissions.html">Commission</a></li>
           <li><a href="../contact.html">Contact</a></li>
-          <li><a href="../faq.html">FAQ</a></li>-->
-          <li><a href="../index.html">Home</a></li>
-          <li><a href="../projects.html">Projects</a></li>
-          <li><a href="../wip.html">Commission</a></li>
-          <li><a href="../wip.html">Contact</a></li>
           <li><a href="../wip.html">FAQ</a></li>
         </ul>
       </nav>
@@ -62,7 +57,7 @@ To expand upon the illusion, the wormhole was rigged to a 3 segmented armature, 
     <img src="../images/projectpage/3dlogo-wormhole/Screenshot from 2021-11-08 16-31-01.png" alt="Screenshot">
     <p>Same screenshot but with the animation armature overlayed</p>
     <img src="../images/projectpage/3dlogo-wormhole/Wormy.gif" alt="Wormey Gif">
-    <p>A wireframe and exterior recording of my workspace showing the whole movement in action. with the UV map sliding along the tunnel. Looks kind of like a worm, don't you think?</p>
+    <p>A wireframe and exterior recording of my workspace showing the whole movement in action. with the UV map sliding along the tunnel. <br>Looks kind of like a worm, don't you think?</p>
   </div>
 <br><br><br><br><br><br><br><br><br><br>
 <!--after this its pretty much just template-->
