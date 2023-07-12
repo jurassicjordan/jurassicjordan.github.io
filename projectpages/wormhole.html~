@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Zoetrope Graphics</title>
+<meta name="generator" content="Bluefish 2.2.14" >
+<meta name="author" content="Jordancruz" >
+<meta name="date" content="2023-07-11T22:59:46-0700" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+<link rel="stylesheet" href="../index.css">
+</head>
+
+<div class="container">
+    <header>
+      <img src="../images/sitewide/ZGlogo-long-white.png" alt="Logo" class="logo">
+      <nav>
+        <ul class="menu">
+          <!--<li><a href="../index.html">Home</a></li>
+          <li><a href="../projects.html">Projects</a></li>
+          <li><a href="../commissions.html">Commission</a></li>
+          <li><a href="../contact.html">Contact</a></li>
+          <li><a href="../faq.html">FAQ</a></li>-->
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../projects.html">Projects</a></li>
+          <li><a href="../wip.html">Commission</a></li>
+          <li><a href="../wip.html">Contact</a></li>
+          <li><a href="../wip.html">FAQ</a></li>
+        </ul>
+      </nav>
+    </header>
+  </div>
+
+<body>
+<!--this is the actual meat of the website-->
+
+  <h1 id="Welcome">Wormhole Arcade</h1>
+  <h2 id="introshort">3D logo example</h2>
+  <p class="margin-400">
+         Science Fiction is a major influence on my designs, and I wanted to pay homage to the 2005 Doctor Who title sequence, 
+         where the small capsule-like space ship travels through a vortex of blue light as credits and titles fly past the camera like debris in the wormhole. 
+         I wanted to take the sci-fi arcade machine I modeled as a practice piece and give it some action. Making the wormhole was quite a bit more simplistic 
+         than I truely wanted it to be. Now-a-days I can think of a hundred reasons why this wormhole looks so bland and flat and polygonal compared to the one 
+         seen in Doctor who. But despite that it had quite a bit of creativity thrown into it.
+<br><br>For example, the camera is stationary the entire time this animation plays. 
+The wormhole's texture is the component moving, rather than the camera, by constantly displacing the UV map over the duration of the animated clip. 
+To expand upon the illusion, the wormhole was rigged to a 3 segmented armature, which allowed it to twist and wag, making bends in the cylinder, so objects may seemingly disappear into the moving chaos.
+    </p>
+    <p id="credits">Animation - Jordan Cruz<br> Inspired By - BBC's Doctor Who  <br> 2021 </p>
+  <div class="video-container">
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/naGJnnAYUBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <br><br>
+  <div class="image-container">
+    <img src="../images/projectpage/3dlogo-wormhole/Screenshot from 2021-11-08 16-31-07.png" alt="Screenshot">
+    <p>Breaking the illusion with a shot outside of the wormhole tunnel</p>
+    <img src="../images/projectpage/3dlogo-wormhole/Screenshot from 2021-11-08 16-31-01.png" alt="Screenshot">
+    <p>Same screenshot but with the animation armature overlayed</p>
+    <img src="../images/projectpage/3dlogo-wormhole/Wormy.gif" alt="Wormey Gif">
+    <p>A wireframe and exterior recording of my workspace showing the whole movement in action. with the UV map sliding along the tunnel. Looks kind of like a worm, don't you think?</p>
+  </div>
+<br><br><br><br><br><br><br><br><br><br>
+<!--after this its pretty much just template-->
+
+
+
+</body>
+
+<footer>
+    <div class="container">
+      <div class="footer-wrapper">
+        <ul class="footer-list">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../wip.html">Commissions</a></li>
+          <li><a href="../wip.html">Contact</a></li>
+        </ul>
+        <ul class="footer-list">
+        	 <li>                 </li>
+        	 <li>                 </li>
+        	 <li>                 </li>
+          <li><a href="../wip.html">Privacy Policy</a></li>
+          <li><a href="../wip.html">Terms of Service</a></li>
+          <li><a href="../wip.html">FAQ</a></li>
+        </ul>
+      </div>
+    </div>
+</footer>
+
+</html>
