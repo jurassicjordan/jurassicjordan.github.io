@@ -4,7 +4,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-19T15:31:42-0700" >
+<meta name="date" content="2023-07-19T15:39:12-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -123,11 +123,10 @@
         	 <li>                 </li>
           <li><a href="TOS.html">Privacy Policy</a></li>
           <li><a href="TOS.html">Terms of Service</a></li>
-          <li><a href="wip.html">FAQ</a></li>
+          <li><a href="FAQ.html">FAQ</a></li>
         </ul>
       </div>
     </div>
 </footer>
-
 
 </html>
