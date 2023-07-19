@@ -6,7 +6,7 @@
 <title>Zoetrope Graphics</title>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-11T23:49:00-0700" >
+<meta name="date" content="2023-07-19T15:31:09-0700" >
 <meta name="copyright" content="2023">
 <meta name="keywords" content="Zoetrope, Graphics, 3D, Animator">
 <meta name="description" content="">
@@ -30,9 +30,9 @@
           <li><a href="faq.html">FAQ</a></li>-->
           <li><a href="index.html">Home</a></li>
           <li><a href="projects.html">Projects</a></li>
-          <li><a href="wip.html">Commission</a></li>
-          <li><a href="wip.html">Contact</a></li>
-          <li><a href="wip.html">FAQ</a></li>
+          <li><a href="commission.html">Commission</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="FAQ.html">FAQ</a></li>
         </ul>
       </nav>
     </header>
