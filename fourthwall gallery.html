@@ -1,0 +1,105 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image with Figcaption</title>
+  <style>
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(475px, 1fr));
+        grid-gap: 10px;
+    }
+    figure {
+      position: relative;
+      overflow: hidden;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+      transition: opacity 0.3s ease;
+    }
+
+    figcaption {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 300%;
+      height: 100%;
+      padding: 10px;
+      background-color: rgba(0, 0, 0, 0.7);
+      color: #fff;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    figure:hover img {
+      opacity: 0;
+    }
+
+    figure:hover figcaption {
+      opacity: 1;
+    }
+  </style>
+</head>
+<div class="grid-container"><a href="NAN">
+      <figure style="position: relative;
+  overflow: hidden;">
+        <img src="https://jurassicjordan.github.io/images/projectpage/zoetrope/Screenshot_20230711_122550.png" alt="A frame from zoetrope video">
+        <figcaption class="hover-caption">Animation - Zoetrope Logo <br><br> click to see project</figcaption>
+      </figure>
+    </a>
+    <a href="projectpages/waterpipe.html">
+      <figure>
+        <img src="https://jurassicjordan.github.io/images/projectpage/waterpipe/Screenshot_20230711_123105.png" alt="Frame of a water pipe pouring water">
+        <figcaption class="hover-caption">Fluid Simulation - Water Pipe <br><br> click to see project</figcaption>
+      </figure>
+    </a>
+    <a href="projectpages/tardis.html">
+      <figure>
+        <img src="https://jurassicjordan.github.io/images/projectpage/tadis/Screenshot_20230711_123835.png" alt="Frame of a scifi ship akinned to doctor whos tardis">
+        <figcaption class="hover-caption">Sci-fi Room - Tardis <br><br> click to see project</figcaption>
+      </figure>
+    </a>
+    <a href="projectpages/renphones.html">
+      <figure>
+        <img src="https://jurassicjordan.github.io/images/projectpage/renpods/Rogue Headphones-thumbs.png" alt="A render of really nice looking headphones">
+        <figcaption class="hover-caption">Product Render - Renphones <br><br> click to see project</figcaption>
+      </figure>
+    </a>
+    <a href="projectpages/funnygun.html">
+      <figure>
+        <img src="https://jurassicjordan.github.io/images/projectpage/funnygun/Screenshot_20230711_124008.png" alt="Frame of a sentry turret from tf2">
+        <figcaption class="hover-caption">Engine porting - Funny Gunny <br><br> click to see project</figcaption>
+      </figure>
+    </a>
+    <a href="projectpages/audient.html">
+      <figure>
+        <img src="https://jurassicjordan.github.io/images/projectpage/audient/Screenshot_20221118_140919.png" alt="image render of some kind of audio device">
+        <figcaption class="hover-caption">Product Render - Audient <br><br> click to see project</figcaption>
+      </figure>
+    </a>
+    <a href="projectpages/wormhole.html">
+      <figure>
+        <img src="https://jurassicjordan.github.io/images/projectpage/3dlogo-wormhole/Screenshot_20230711_124904.png" alt="thumbnail of a wormhole effect akinned to doctor who">
+        <figcaption class="hover-caption">3D logo animation - Wormhole Arcade <br><br> click to see project</figcaption>
+      </figure>
+    </a>
+    <a href="projectpages/ambulatory.html">
+      <figure>
+        <img src="https://jurassicjordan.github.io/images/projectpage/3D-logo-ambu/Screenshot_20230711_124927.png" alt="what looks like a moving animation of a store logo mid movement">
+        <figcaption class="hover-caption">3D logo animation - Fantastic Ambulatory Shop <br><br> click to see project</figcaption>
+      </figure>
+    </a>
+    <a href="projectpages/9volt.html">
+      <figure>
+        <img src="https://jurassicjordan.github.io/images/projectpage/3D-logo-9volt/Screenshot_20230711_124944.png" alt="another logo with a lightning bolt reflected in it">
+        <figcaption class="hover-caption">3D logo animation - 9Volt Cat <br><br> click to see project</figcaption>
+      </figure>
+    </a>
+    <a href="projectpages/aquasave.html">
+      <figure>
+        <img src="https://jurassicjordan.github.io/images/projectpage/whitson/3840x2190p0004.jpg" alt="A set of black plastic crate looking objects">
+        <figcaption class="hover-caption">Product Render - Aquasave <br><br> click to see project</figcaption>
+      </figure>
+    </a></div>
