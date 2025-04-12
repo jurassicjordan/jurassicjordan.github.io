@@ -1,11 +1,10 @@
-<!--<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<!--<head>
+<head>
 <title>Zoetrope Graphics</title>
-<link rel="shortcut icon" type="image/jpg" href="../images/sitewide/ZoetropeFavicon.png"/>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-19T16:11:33-0700" >
+<meta name="date" content="2023-07-19T16:09:14-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -15,9 +14,9 @@
 <meta http-equiv="content-style-type" content="text/css">
 <meta http-equiv="expires" content="0">
 <link rel="stylesheet" href="../index.css">
-</head>-->
+</head>
 
-<!--<div class="container">
+<div class="container">
     <header>
       <img src="../images/sitewide/ZGlogo-long-white.png" alt="Logo" class="logo">
       <nav>
@@ -26,7 +25,7 @@
           <li><a href="projects.html">Projects</a></li>
           <li><a href="commissions.html">Commission</a></li>
           <li><a href="contact.html">Contact</a></li>
-          <li><a href="faq.html">FAQ</a></li>
+          <li><a href="faq.html">FAQ</a></li>-->
           <li><a href="../index.html">Home</a></li>
           <li><a href="../projects.html">Projects</a></li>
           <li><a href="../commission.html">Commission</a></li>
@@ -35,35 +34,37 @@
         </ul>
       </nav>
     </header>
-  </div>-->
+  </div>
 
-<div>
+<body>
 <!--this is the actual meat of the website-->
 
-<!--  <h1 id="Welcome">Zoetrope Graphics</h1>
-  <h2 id="introshort">Short Intro Animation</h2>-->
+  <h1 id="Welcome">Project Name</h1>
+  <h2 id="introshort">Subtitle</h2>
   <p class="margin-400">
-         This is an overly long intro video of Zoetrope graphics. 
-    Notice the recursive screen on the monitor of the SGI Indy, showing the same scene in wireframe mode. 
-    Along with that, there are various scattered refrences of future 3D models and diagrams on the floor. 
-    Lastly of course is the two notable props aside the zoetrope. 
-    An SGI indy, which many of the movies and games the computer is resposible for are all inspirations of mine, and a bolex style camera, noteworthy for its use in early stop motion animation. 
-    This video was planned to have a nice soundtrack and mechanical foley to go with it. however I've yet to add such.
+         paragraphical description
     </p>
-    <p id="credits">Animation - Jordan Cruz <br> 2021</p>
+    <p id="credits">Credit - name<br> Credit - name  <br> 20XX </p>
   <div class="video-container">
-    <iframe width="800" height="450" src="https://www.youtube.com/embed/nzzdiEK7XTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="800" height="450" src="https://www.youtube.com/embed/EMBED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
   <br><br>
   <div class="image-container">
-    <img src="../images/projectpage/zoetrope/Screenshot_20230711_122550.png" alt="Image 1">
+    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
+    <p>quick description</p>
+    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
+    <p>quick description</p>
+    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
+    <img src="../images/projectpage/imagetemp.png" alt="Image 1">
   </div>
 <br><br><br><br><br><br><br><br><br><br>
 <!--after this its pretty much just template-->
 
-</div>
 
-<!--<footer>
+
+</body>
+
+<footer>
     <div class="container">
       <div class="footer-wrapper">
         <ul class="footer-list">
@@ -83,4 +84,4 @@
     </div>
 </footer>
 
-</html>-->
+</html>

@@ -1,11 +1,10 @@
-<!--<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Zoetrope Graphics</title>
-<link rel="shortcut icon" type="image/jpg" href="../images/sitewide/ZoetropeFavicon.png"/>
 <meta name="generator" content="Bluefish 2.2.14" >
 <meta name="author" content="Jordancruz" >
-<meta name="date" content="2023-07-19T16:14:42-0700" >
+<meta name="date" content="2023-07-19T16:09:24-0700" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -26,7 +25,7 @@
           <li><a href="projects.html">Projects</a></li>
           <li><a href="commissions.html">Commission</a></li>
           <li><a href="contact.html">Contact</a></li>
-          <li><a href="faq.html">FAQ</a></li>
+          <li><a href="faq.html">FAQ</a></li>-->
           <li><a href="index.html">Home</a></li>
           <li><a href="projects.html">Projects</a></li>
           <li><a href="commission.html">Commission</a></li>
@@ -38,10 +37,10 @@
   </div>
 
 <body>
-<!--this is the actual meat of the website
+<!--this is the actual meat of the website-->
 
   <h1 id="Welcome">Wormhole Arcade</h1>
-  <h2 id="introshort">3D logo example</h2>-->
+  <h2 id="introshort">3D logo example</h2>
   <p class="margin-400">
          Science Fiction is a major influence on my designs, and I wanted to pay homage to the 2005 Doctor Who title sequence, 
          where the small capsule-like space ship travels through a vortex of blue light as credits and titles fly past the camera like debris in the wormhole. 
@@ -71,7 +70,7 @@ To expand upon the illusion, the wormhole was rigged to a 3 segmented armature, 
 
 
 </body>
-<!--
+
 <footer>
     <div class="container">
       <div class="footer-wrapper">
@@ -91,4 +90,4 @@ To expand upon the illusion, the wormhole was rigged to a 3 segmented armature, 
       </div>
     </div>
 </footer>
-</html>-->
+</html>
